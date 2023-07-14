@@ -4,4 +4,3 @@
 - 🎯 I'm looking to contribute to as many open source projects as possible
 - 📫 How to reach me birvaraval.imscit20@gmail.com
 
-# Hi, I'm BIRVA RAVAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
