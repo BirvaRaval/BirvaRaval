@@ -1,16 +1,49 @@
-
-<table>
-  <tr>
-    <td valign="center">
-       👋 Hi, I’m BirvaRaval<br>
-       💕 I’m interested in Development & Coding.<br>
-       🎓 I’m currently pursuing Master's of Computer Science in Information Technology.<br>
-       🎯 I'm looking to contribute to as many open source projects as possible.<br>
-       📫 How to reach me birvaraval.imscit20@gmail.com.<br>
-    </td>
-    <td>
-      <br>
-      <img src="https://camo.githubusercontent.com/b7e84cd7df9d883ebab3618b73506c04d2b867b5249291268930f0ab1f02e2e2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966" width="700"/>
-    </td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+    <header>
+        <h1>Hi 👋</h1>
+    </header>
+    <center>
+        <img src="https://github.com/BirvaRaval/BirvaRaval/blob/main/birva.png?raw=true" alt="Birva Raval">
+    </center>
+    <h2>About Me</h2>
+<!--  <p>
+        <a href="https://github.com/BirvaRaval">
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=BirvaRaval.BirvaRaval" alt="Visitors" >
+        </a>
+        <a href="https://github.com/BirvaRaval?tab=followers">
+            <img src="https://img.shields.io/github/followers/BirvaRaval.svg?style=social&label=Follow" alt="GitHub Followers" >
+        </a>
+    </p>-->
+    <p><li><i>👋 Hey,</i> I’m Birva Raval<br> </li>
+        <li>💕 I’m interested in <i>Development & Coding.</i><br></li>
+        <li>🎓 I’m currently pursuing <i>Master's of Computer Science in Information Technology.</i><br></li>
+        <li>🎯 I'm looking to contribute to as many open-source projects as possible.<br></li>
+        <li>📫 How to reach me:</i> birvaraval.imscit20@gmail.com.</i><br></li>
+    </p>
+    <p>
+        __Check out my GitHub repository:__
+        <br> <br>
+        <a href="https://github.com/BirvaRaval/My-Portfolio.git">
+            <img src="https://github.com/BirvaRaval/BirvaRaval/blob/main/repo1.png?raw=true" alt="GitHub Stats" width="300px" />
+        </a>
+    </p>
+    <h2>👀 Stats</h2>
+      <div>
+        <p align="center">
+          <b><em>GitHub Stats:</em></b> <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BirvaRaval" alt="GitHub Stats" /> <br/><br/>
+      </div>  
+    <h2>📫 How to reach me:</h2>
+    <a href="mailto:birvaraval.imscit20@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect with me via email">
+    </a>
+    <a href="https://www.linkedin.com/in/birva-raval-2250a8211/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bv%2FAbncjjTfmSYp%2Fi8ZJmvw%3D%3D">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+    </a>
+</body>
+</html>
