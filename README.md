@@ -8,7 +8,7 @@
         <h1>Hi 👋</h1>
     </header>
     <center>
-        <img src="https://github.com/BirvaRaval/BirvaRaval/blob/main/birva.png?raw=true" alt="Birva Raval">
+        <img src="https://raw.githubusercontent.com/BirvaRaval/BirvaRaval/main/birva.png" alt="Birva Raval">
     </center>
     <h2>About Me</h2>
 <!--  <p>
@@ -29,7 +29,7 @@
         __Check out my GitHub repository:__
         <br> <br>
         <a href="https://github.com/BirvaRaval/My-Portfolio.git">
-            <img src="https://github.com/BirvaRaval/BirvaRaval/blob/main/repo1.png?raw=true" alt="GitHub Stats" width="300px" />
+            <img src="https://raw.githubusercontent.com/BirvaRaval/BirvaRaval/main/repo1.png" alt="GitHub Stats" width="300px" />
         </a>
     </p>
     <h2>👀 Stats</h2>
