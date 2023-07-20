@@ -8,7 +8,7 @@
         <h1>Hi 👋</h1>
     </header>
     <center>
-        <img src="https://raw.githubusercontent.com/BirvaRaval/BirvaRaval/main/birva.png" alt="Birva Raval">
+        ![Birva Raval](https://github.com/BirvaRaval/BirvaRaval/blob/main/birva.png?raw=true)
     </center>
     <h2>About Me</h2>
 <!--  <p>
