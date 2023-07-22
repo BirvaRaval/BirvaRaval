@@ -40,13 +40,13 @@
          <p>
         <br> <br>
              <a href="https://github.com/birvaraval/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=My-Portfolio" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=My-Portfolio" alt="GitHub " />
 </a>
              <a href="https://github.com/birvaraval/PYTHON_BASICS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=PYTHON_BASICS" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=PYTHON_BASICS" alt="GitHub " />
 </a>
              <a href="https://github.com/birvaraval/Presentations_4U">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=Presentations_4U" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=Presentations_4U" alt="GitHub " />
 </a>
     </p>
     <h2>📫 How to reach me:</h2>
