@@ -25,19 +25,27 @@
         <li>🎯 I'm looking to contribute to as many open-source projects as possible.<br></li>
         <li>📫 How to reach me:</i> birvaraval.imscit20@gmail.com.</i><br></li>
     </p>
-    <p>
-        __Check out my GitHub repository:__
-        <br> <br>
-        <a href="https://github.com/BirvaRaval/My-Portfolio.git">
-            <img src="https://raw.githubusercontent.com/BirvaRaval/BirvaRaval/main/repo1.png" alt="GitHub Stats" width="300px" />
-        </a>
-    </p>
     <h2>👀 Stats</h2>
       <div>
-        <p align="center">
-          <b><em>GitHub Stats:</em></b> <br/>
+        <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=BirvaRaval" alt="GitHub Stats" /> <br/><br/>
-      </div>  
+    <a href="https://github.com/birvaraval/birvaraval">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birvaraval&hide=java,html,tex&theme=buefy&langs_count=3" />
+</a>
+<a href="https://github.com/birvaraval/birvaraval">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=birvaraval&show_icons=true&line_height=27&count_private=true&theme=buefy" alt="Birva's GitHub Stats" />
+</a>
+ </div>  
+ <h2>__Check out my GitHub repository:__</h2>
+         <p>
+        <br> <br>
+             <a href="https://github.com/birvaraval/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=My-Portfolio" alt="GitHub Stats" />
+</a>
+             <a href="https://github.com/birvaraval/PYTHON_BASICS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=PYTHON_BASICS" alt="GitHub Stats" />
+</a>
+    </p>
     <h2>📫 How to reach me:</h2>
     <a href="mailto:birvaraval.imscit20@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect with me via email">
