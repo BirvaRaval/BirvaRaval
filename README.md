@@ -40,21 +40,13 @@
          <p>
         <br> <br>
              <a href="https://github.com/birvaraval/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=My-Portfolio" alt="GitHub " />
-</a>
-             <a href="https://github.com/birvaraval/PYTHON_BASICS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=PYTHON_BASICS" alt="GitHub " />
-</a>
-             <a href="https://github.com/birvaraval/Presentations_4U">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=Presentations_4U" alt="GitHub " />
-</a>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=birvaraval&repo=My-Portfolio" alt="GitHub " />
+        </a>        
     </p>
     <h2>📫 How to reach me:</h2>
     <a href="mailto:birvaraval.imscit20@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect with me via email">
     </a>
-    <a href="https://www.linkedin.com/in/birva-raval-2250a8211/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bv%2FAbncjjTfmSYp%2Fi8ZJmvw%3D%3D">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
-    </a>
+    
 </body>
 </html>
